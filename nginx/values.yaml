@@ -4,8 +4,7 @@
 
 replicaCount: 1
 
-image: nginx:stable
-
+image: nginx:latest
 imagePullSecrets: []
 nameOverride: ""
 fullnameOverride: ""
